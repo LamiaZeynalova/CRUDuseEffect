@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Alma",
+      "info": "Qirmizi və şirin",
+      "price": 0.99
+    },
+    {
+      "id": "2",
+      "name": "Armud",
+      "info": "Şirəli və təravətli",
+      "price": 1.49
+    },
+    {
+      "id": "3",
+      "name": "Banana",
+      "info": "Tropik və enerjili",
+      "price": 1.29
+    },
+    {
+      "id": "4",
+      "name": "Çiyələk",
+      "info": "Qirmizi və vitaminli",
+      "price": 2.99
+    },
+    {
+      "id": "5",
+      "name": "Naringi",
+      "info": "Turş və C vitamini ilə zəngin",
+      "price": 1.99
+    },
+    {
+      "id": "6",
+      "name": "Kiwi",
+      "info": "Yumşaq və vitaminli",
+      "price": 2.49
+    },
+    {
+      "id": "7",
+      "name": "Ananas",
+      "info": "Tropik və sulu",
+      "price": 3.49
+    },
+    {
+      "id": "8",
+      "name": "Üzüm",
+      "info": "Şirin və sulu",
+      "price": 2.19
+    },
+    {
+      "id": "9",
+      "name": "Heyva",
+      "info": "Sərt və şirin-turş",
+      "price": 1.79
+    },
+    {
+      "id": "10",
+      "name": "Mango",
+      "info": "Tropik və şirin",
+      "price": 4.99
+    }
+  ]
+}

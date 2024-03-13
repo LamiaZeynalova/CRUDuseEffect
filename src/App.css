@@ -6,7 +6,26 @@
   height: 40vmin;
   pointer-events: none;
 }
+.form{
+  margin-top: 50px;
+  margin-bottom: 20px;
+  display: flex;
+  gap: 10px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
 
+th, td {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
